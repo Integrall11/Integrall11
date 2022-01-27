@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Integrall11
+- 👀 I’m interested in data anlysis and computational neuroscience
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking to collaborate on AI projects in medicine
+- 📫 How to reach me: mohamadimobin111@gmail.com
